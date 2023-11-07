@@ -1,11 +1,11 @@
 
 /*********************************************************************************
-*  WEB422 – Assignment 4
+*  WEB422 – Assignment 5
 *  I declare that this assignment is my own work in accordance with Seneca Academic Policy.  
 *  No part of this assignment has been copied manually or electronically from any other source
 *  (including web sites) or distributed to other students.
 * 
-*  Name: ___Riddhi Bharatkumar Patel___________________ Student ID: ____151212214______________ Date: ____3 Nov 2, 2023_______________
+*  Name: ___Riddhi Bharatkumar Patel___________________ Student ID: ____151212214______________ Date: ____ Nov 7, 2023_______________
 *   Github Link : https://github.com/RiddhiPatel25/Assignment4-Web422
 Because of deployemnt issues, i have made the github repository public and have given the link above so that you can view my code. 
 There was a build error when deploying the project for some reason althought it is working perfectly fine on my pc. Hope you understand.
@@ -28,7 +28,7 @@ export default function Home () {
         </Col>
         <Col md={6}>
           <p>
-            The Metropolitan Museum of Art is one of the world's largest and most prestigious art museums. It is located in New York City, in the Central Park area.
+            The Metropolitan Museum of Art is one of the world&apos;s largest and most prestigious art museums. It is located in New York City, in the Central Park area.
           </p>
           <p>
             For more information, visit {' '}
