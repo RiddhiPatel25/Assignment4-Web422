@@ -6,7 +6,9 @@
 *  (including web sites) or distributed to other students.
 * 
 *  Name: ___Riddhi Bharatkumar Patel___________________ Student ID: ____151212214______________ Date: ____3 Nov 2, 2023_______________
-*
+*   Github Link : https://github.com/RiddhiPatel25/Assignment4-Web422
+Because of deployemnt issues, i have made the github repository public and have given the link above so that you can view my code. 
+There was a build error when deploying the project for some reason althought it is working perfectly fine on my pc. Hope you understand.
 ********************************************************************************/ 
 
 
