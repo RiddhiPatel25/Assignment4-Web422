@@ -6,7 +6,7 @@
 *  (including web sites) or distributed to other students.
 * 
 *  Name: ___Riddhi Bharatkumar Patel___________________ Student ID: ____151212214______________ Date: ____ Nov 7, 2023_______________
-*   Github Link : https://github.com/RiddhiPatel25/Assignment4-Web422
+*   Vercel Link : https://assignment4-web422-ek2rep7nt-riddhis-projects-21ad8471.vercel.app/
 Because of deployemnt issues, i have made the github repository public and have given the link above so that you can view my code. 
 There was a build error when deploying the project for some reason althought it is working perfectly fine on my pc. Hope you understand.
 ********************************************************************************/ 
